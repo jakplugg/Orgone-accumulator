@@ -1,0 +1,4 @@
+The converted AKWF files have been moved to a different server
+to speed up download times for actual firmwares.
+
+ftp://ftp.neutron-sound.com/files/AKWF_signed_int_512.zip

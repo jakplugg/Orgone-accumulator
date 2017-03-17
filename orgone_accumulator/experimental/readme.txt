@@ -1,0 +1,1 @@
+some of these may not work with retail or DIY units, they are just for testing ideas.
