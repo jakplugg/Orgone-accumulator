@@ -19,7 +19,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 Neutron-sound.com
 Orgone Accumulator 2.0
 */
-
+//use 144mhz version, this version is no longer updated.
 
 //pre 2.0 firmware orgones
 //use config.h tab to change FX function button to momentary if you changed it.
@@ -33,7 +33,7 @@ Orgone Accumulator 2.0
 #include <stdint.h>
 #include <Bounce.h>
 #include <EEPROM.h>
-#include "Config.h"
+#include "config.h"
 #include <Arduino.h>
 
 const float equalTemprementTable[] = {1, 1, 1.05946, 1.12246, 1.18921, 1.25992, 1.33483, 1.41421, 1.49831, 1.58740, 1.68179, 1.78180, 1.88775, 2};
