@@ -5,6 +5,7 @@ PRELIMINARY INFO
 
 * SMD components (easy soic and 0805)
 * option for linear or switching regulator with pi filter.
+* "PSI POWER" either way power header via rectifier.
 
 **improvements to circuit:**
 * strong transient PWM signal from sub output is routed away from
