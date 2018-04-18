@@ -1,6 +1,12 @@
 # Orgone-accumulator DIY3
 PRELIMINARY INFO
 
+Google sheets BOM:
+https://docs.google.com/spreadsheets/d/1esQEyoltlGYfirccKpleONLOLdXJlgQoxQz0Rjz_tTo/edit#gid=85731956
+
+Mouser BOM:
+
+
 **changed from previous through hole DIY orgones:**
 
 * SMD components (easy soic and 0805)
