@@ -8,17 +8,17 @@ buy bare boards and PCBpanels (black)
 prices are canadian dollars. currently about 0.7 USD
 includes airmailing to your location. 
 
-board Canada $30 https://paypal.me/neutronsound/30
-panel Canada $25 https://paypal.me/neutronsound/25
-board + panel Canada $45 https://paypal.me/neutronsound/45
+board Canada $30 https://paypal.me/neutronsound/30  
+panel Canada $25 https://paypal.me/neutronsound/25  
+board + panel Canada $45 https://paypal.me/neutronsound/45  
 
-board U.S. $35 https://paypal.me/neutronsound/35
-panel U.S. $30 https://paypal.me/neutronsound/30
-board + panel U.S. $50 https://paypal.me/neutronsound/50
+board U.S. $35 https://paypal.me/neutronsound/35  
+panel U.S. $30 https://paypal.me/neutronsound/30  
+board + panel U.S. $50 https://paypal.me/neutronsound/50  
 
-board International $40 https://paypal.me/neutronsound/40
-board International $35 https://paypal.me/neutronsound/35
-board + panel International $55 https://paypal.me/neutronsound/55
+board International $40 https://paypal.me/neutronsound/40  
+board International $35 https://paypal.me/neutronsound/35  
+board + panel International $55 https://paypal.me/neutronsound/55  
 
 
 Mouser BOM:
