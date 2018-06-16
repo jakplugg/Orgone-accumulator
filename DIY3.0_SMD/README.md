@@ -4,9 +4,10 @@ PRELIMINARY INFO
 Google sheets BOM:
 https://docs.google.com/spreadsheets/d/1esQEyoltlGYfirccKpleONLOLdXJlgQoxQz0Rjz_tTo/edit#gid=85731956
 
-buy bare boards and PCBpanels (black)
-prices are canadian dollars. currently about 0.7 USD
+buy bare boards and/or PCBpanels (black)  
+prices are canadian dollars. currently about 0.7 USD  
 includes airmailing to your location. 
+# please note what you bought in paypal message!  
 
 board Canada $30 https://paypal.me/neutronsound/30  
 panel Canada $25 https://paypal.me/neutronsound/25  
