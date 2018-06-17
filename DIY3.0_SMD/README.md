@@ -2,7 +2,7 @@
 PRELIMINARY INFO
 
 Google sheets BOM:
-https://docs.google.com/spreadsheets/d/1esQEyoltlGYfirccKpleONLOLdXJlgQoxQz0Rjz_tTo/edit#gid=85731956
+https://docs.google.com/spreadsheets/d/1yWP0SEDUn4MFoWlR4tSw32LnQw3czUZVgWfFrcoWUo0
 
 buy bare boards and/or PCBpanels (black)  
 prices are canadian dollars. currently about 0.7 USD  
