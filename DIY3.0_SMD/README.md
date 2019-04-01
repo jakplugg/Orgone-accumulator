@@ -10,16 +10,16 @@ includes airmailing to your location.
 # please note what you bought in paypal message!  
 
 board Canada $30 https://paypal.me/neutronsound/30  
-panel Canada $25 https://paypal.me/neutronsound/25  
-board + panel Canada $45 https://paypal.me/neutronsound/45  
+panel Canada $25 : out of stock 
+board + panel Canada $45 : out of stock 
 
 board U.S. $35 https://paypal.me/neutronsound/35  
-panel U.S. $30 https://paypal.me/neutronsound/30  
-board + panel U.S. $50 https://paypal.me/neutronsound/50  
+panel U.S. $30 : out of stock 
+board + panel U.S. $50 : out of stock  
 
 board International $40 https://paypal.me/neutronsound/40  
-board International $35 https://paypal.me/neutronsound/35  
-board + panel International $55 https://paypal.me/neutronsound/55  
+panel International $35 : out of stock 
+board + panel International $55 : out of stock 
 
 
 Build Guide by Mark Thomson:  
