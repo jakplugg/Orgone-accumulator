@@ -1,0 +1,21 @@
+G04 DipTrace 3.3.0.0*
+G04 orgone_3_PCBPANEL.GKO*
+%MOIN*%
+G04 #@! TF.FileFunction,Profile*
+G04 #@! TF.Part,Single*
+%ADD11C,0.005512*%
+%FSLAX26Y26*%
+G04*
+G70*
+G90*
+G75*
+G01*
+G04 BoardOutline*
+%LPD*%
+X4382113Y394016D2*
+D11*
+Y5452507D1*
+X394016D1*
+Y394016D1*
+X4382113D1*
+M02*
