@@ -4,22 +4,7 @@ PRELIMINARY INFO
 Google sheets BOM:
 https://docs.google.com/spreadsheets/d/1yWP0SEDUn4MFoWlR4tSw32LnQw3czUZVgWfFrcoWUo0
 
-buy bare boards and/or PCBpanels (black)  
-prices are canadian dollars. currently about 0.7 USD  
-includes airmailing to your location. 
-# please note what you bought in paypal message!  
-
-board Canada $30 https://paypal.me/neutronsound/30  
-panel Canada $25 : out of stock 
-board + panel Canada $45 : out of stock 
-
-board U.S. $35 https://paypal.me/neutronsound/35  
-panel U.S. $30 : out of stock 
-board + panel U.S. $50 : out of stock  
-
-board International $40 https://paypal.me/neutronsound/40  
-panel International $35 : out of stock 
-board + panel International $55 : out of stock 
+Sorry, boards and panels are currently out of stock, you can also check michigan synth works.
 
 
 Build Guide by Mark Thomson:  
